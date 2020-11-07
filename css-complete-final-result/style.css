@@ -1,0 +1,192 @@
+body 
+{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+
+
+}
+
+.upper-container
+{
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 200px;
+}
+
+h1
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 110px;
+    color: #66bfbf;
+    
+}
+.profile
+{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.pro
+{
+    text-decoration: underline;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    font-size: 50px;
+}
+
+h3 
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+    font-weight: 1000;
+}
+a
+{
+   
+    color: #11999e;
+}
+
+
+#top-cloud
+{
+    position: absolute;
+    top: 450px;
+    left: 300px;
+}
+
+#under-cloud
+{
+    position: absolute;
+    right: 350px;
+    top: 100px; 
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 120px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.img1
+{
+    float: left;
+    margin-right: 50px;
+}
+
+.img2
+{
+    float: right;
+    margin-left: 50px;
+}
+
+hr
+{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 5%;
+}
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #2BC4AD;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 100px;
+ }
+ 
+ .btn:hover {
+    background: #30E3CB;
+    border: solid #337FED 0;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+.bottom-container
+{
+    background-color: #66bfbf ;
+    margin-top: 100px;
+    padding-top: 30px;
+    
+    padding-bottom: 50px;
+
+
+}
+.noob
+{
+    text-decoration: line-through;
+}
+#pronoob
+{
+    font-size: 20px;
+}
+.footer-link
+{
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 10px;
+    color:#11999e;
+}
+
+.footer-link:hover
+{
+    color: #eaf6f6;
+}
+
+.frog
+{
+    transition: ease-in-out;
+    transition: 1s;
+}
+
+.frog:hover
+{
+    transform: scale(1.25) rotate(360deg) ;
+    transition: ease-in-out;
+    transition: 1s;
+}
+
+.img1
+{
+    transition: ease-in-out;
+    transition: 1s;
+}
+
+.img1:hover
+{
+    transform: scale(1.25) rotate(360deg) ;
+    transition: ease-in-out;
+    transition: 1s;
+}
+
+.img2
+{
+    transition: ease-in-out;
+    transition: 1s;
+}
+
+.img2:hover
+{
+    transform: scale(1.25) rotate(360deg) ;
+    transition: ease-in-out;
+    transition: 1s;
+}
+
+
